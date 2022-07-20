@@ -1,5 +1,4 @@
 # Hackerrank_solutions
-Solutions to Hackerrank problems. 
 
 A repository containing solutions to Hackerrank problems, mainly from Problem Solving field. 
 
