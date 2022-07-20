@@ -1,1 +1,1 @@
-Plus Minus - description on a screenshot
+Plus Minus - description in a screenshot.
